@@ -55,10 +55,17 @@ nav a:hover {
 
 .jumbotron {
     font-size: 20px;
-    padding: 60px;
+    padding: 30px;
     background-color: #00c8eb;
-    text-align: center;
     color: white;
+
+}
+.jumbotron p{
+    text-align: left;
+}
+
+table th{
+    text-align: left;
 }
 
 nav li {
